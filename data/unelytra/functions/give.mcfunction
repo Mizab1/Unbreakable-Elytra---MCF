@@ -1,0 +1,1 @@
+give @s minecraft:elytra{display:{Name:'{"text":"Unbreakable Elytra","color":"gold","bold":false,"italic":false}'},HideFlags:4,Unbreakable:1b} 1
